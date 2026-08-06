@@ -22,9 +22,9 @@ import json
 # ---------------------------------------------------------------------------
 # Configuracoes da camera
 # ---------------------------------------------------------------------------
-CAMERA_IP = "192.168.1.64"
-USERNAME = "admin"
-PASSWORD = "Amb@5888"
+CAMERA_IP = "IP"
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
 
 # Nesta serie (HeatPro) a saida de termometria em tempo real esta no canal 2.
 # (A configuracao das regras/regioes fica no canal 1, mas os dados ao vivo
