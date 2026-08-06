@@ -18,9 +18,9 @@ from requests.auth import HTTPDigestAuth
 # ---------------------------------------------------------------------------
 # Ajuste aqui
 # ---------------------------------------------------------------------------
-CAMERA_IP = "192.168.1.64"
-USERNAME = "admin"
-PASSWORD = "Amb@5888"
+CAMERA_IP = "IP"
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
 SCHEME = "http"
 VERIFY_TLS = False
 
